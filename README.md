@@ -9,3 +9,4 @@ For the sake of this example, the search options have been programmed to give fe
 Please see the below example:
 
 ![Functioning Search ](../images/liri.png)
+Format: ![Code Example](url)
