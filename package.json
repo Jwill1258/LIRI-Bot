@@ -13,7 +13,7 @@
     "dotenv": "^6.0.0",
     "fs": "0.0.1-security",
     "i": "^0.3.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-spotify-api": "^1.1.1",
     "react": "^16.12.0",
     "spotify": "^0.3.0"
